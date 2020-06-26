@@ -10,3 +10,5 @@ A bash script to easily manage text style in bash prompt shell. It contains a co
 > echo -e ${PALETTE_GREEN}${PALETTE_BLINK}${PALETTE_RED_U}Green Blinking Text over Red Background${PALETTE_RESET}
 
 **Try the different combination in the test.sh file**.
+
+<img src="screenshot.png" alt="Screenshot Image" style="float: left; margin-right: 10px;" />
